@@ -317,7 +317,7 @@ button:focus-visible {
 .black-hole-image {
     background-image:
         linear-gradient(rgba(7, 11, 24, 0.15), rgba(7, 11, 24, 0.35)),
-       url("../images/black%20hole.jpg");
+     url("../images/black-hole.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
